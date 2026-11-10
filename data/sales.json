@@ -1,0 +1,30 @@
+[
+    {
+        "order_id": "ORD001",
+        "product": "電視",
+        "quantity": 2,
+        "unit_price": 30000,
+        "sale_date": "2026-11-10"
+    },
+    {
+        "order_id": "ORD002",
+        "product": "冰箱",
+        "quantity": 1,
+        "unit_price": 25000,
+        "sale_date": "2026-11-10"
+    },
+    {
+        "order_id": "ORD003",
+        "product": "電視",
+        "quantity": 1,
+        "unit_price": 30000,
+        "sale_date": "2026-11-10"
+    },
+    {
+        "order_id": "ORD004",
+        "product": "洗衣機",
+        "quantity": 3,
+        "unit_price": 18000,
+        "sale_date": "2026-11-10"
+    }
+]
